@@ -1,7 +1,7 @@
 package api.sdk;
 
 
-import api.mpesa.MPesaPayment;
+import mpesa.MPesaPayment;
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;

@@ -1,7 +1,11 @@
-package api.mpesa;
+package mpesa;
 
 import api.models.Payment;
 import api.models.Entity;
+import api.sdk.APIContext;
+import api.sdk.APIMethodType;
+import api.sdk.APIRequest;
+import api.sdk.APIResponse;
 import static api.services.Constants.COUNTRY_MOBILE_PREFIX;
 import java.util.Map;
 
